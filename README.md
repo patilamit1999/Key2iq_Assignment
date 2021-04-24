@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+[![Simple App](https://img.shields.io/github/v/release/patilshreyas/notykt?color=7885FF&label=Simple%20App&logo=android&style=for-the-badge)](https://drive.google.com/file/d/1aJPIpZK31GUFtDCyFNvKcSmWXB01KUCK/view?usp=sharing)
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
