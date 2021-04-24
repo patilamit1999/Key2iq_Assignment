@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-[![Simple App](color=7885FF&label=Simple%20App&logo=android&style=for-the-badge)](https://drive.google.com/file/d/1aJPIpZK31GUFtDCyFNvKcSmWXB01KUCK/view?usp=sharing)
+[![Simple App]](https://drive.google.com/file/d/1aJPIpZK31GUFtDCyFNvKcSmWXB01KUCK/view?usp=sharing)
 
 ## Getting Started
 
